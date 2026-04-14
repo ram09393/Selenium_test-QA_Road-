@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+build/
+dist/
+*.egg-info/
+
+# PyCharm
+.idea/
+
+# Pytest
+.pytest_cache/
+.tox/
+
+# Selenium
+*.log
+*.png
+*.html
+dropdown_opened.html
+dropdown_page.html
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Credentials
+.env
+*.env
+allure-results/
+allure-report/
+.vscode/
